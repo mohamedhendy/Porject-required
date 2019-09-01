@@ -263,6 +263,9 @@ footer p {
   .date .card-body {
     padding: 0 1rem;
   }
+  .categores h2 span {
+    padding: 13px 0;
+  }
 }
 @media (max-width: 300px) {
   header .fline::after {
